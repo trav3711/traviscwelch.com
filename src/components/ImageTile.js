@@ -10,7 +10,6 @@ function ImageTile(props){
     <div className="p-2 text-center" fluid={true}>
 
         <img className="p-1" src={props.src} alt={"photo"} width={"100%"} />
-        <p className="text-left">{props.title}</p>
 
     </div>
   )
