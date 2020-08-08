@@ -1,13 +1,16 @@
 import React from "react"
 
+import Content from "../components/Content"
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+
 function ImageTile(props){
 
   return(
-    <div className="p-5 text-center" fluid={true}>
+    <div className="p-2 text-center" fluid={true}>
 
-      <img className="" src={props.src} alt={"photo"} width={"60%"} />
-      <h3 className="">{props.title}</h3>
-      <p>{props.location}</p>
+        <img className="p-1" src={props.src} alt={"photo"} width={"100%"} />
+        <p className="text-left">{props.title}</p>
 
     </div>
   )
