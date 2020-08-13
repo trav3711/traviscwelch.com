@@ -5,7 +5,7 @@
 #### Still to do:
 - Add a resume page
 - Add a projects page
-- Add a contact pages
+- Add a contact page
 - Make a more interesting home page
 - Make the logo clickable and route to home page
 
