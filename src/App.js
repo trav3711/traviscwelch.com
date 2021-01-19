@@ -27,7 +27,7 @@ class App extends React.Component {
       ],
       home: {
         title: 'Hello There!',
-        subTitle: 'Come on in and make yourself a home. There\'s coffee heating up on the stove so feel free to relax and have a look around.',
+        subTitle: 'Welcome to my website where I try to outline my professional skills and personal interests',
       },
       about: {
         title: 'About Me'
