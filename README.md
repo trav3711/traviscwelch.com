@@ -1,6 +1,6 @@
 # traviscwelch.com
 
-### A personal website made to display the things that I want to show the world.
+### A personal website made to display the things that I want to show the world.(Out of date)
 
 #### Still to do:
 - Add a resume page
